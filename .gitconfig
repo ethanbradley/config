@@ -1,6 +1,6 @@
 [user]
-  name = Ethan Bradley
-  email = <<my email address>>
+  name = <<firstname lastname>>
+  email = <<email address>>
 
 [alias]
   aa = add --all
