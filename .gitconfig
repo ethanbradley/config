@@ -12,6 +12,7 @@
   co = checkout
   cp = cherry-pick
   d = diff
+  f = fetch
   lgb = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset%n' --abbrev-commit --date=relative --branches
   st = status
 
