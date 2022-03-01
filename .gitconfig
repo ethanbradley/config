@@ -8,6 +8,7 @@
   br = branch
   c = commit
   ca = commit --amend
+  cam = commit --amend -m
   cm = commit -m
   co = checkout
   cp = cherry-pick
